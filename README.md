@@ -1,6 +1,10 @@
 # hMPXV-mutations
+
+This code was designed by Victor Jimenez Vasquez - vr.jimenez.vs@gmail.com.
 ```r
-![graphic1](https://user-images.githubusercontent.com/89874227/156581714-857a724b-d9fd-4abf-a4df-84b5e8c1cfda.jpg)
+
+![graphic1](https://user-images.githubusercontent.com/89874227/221016548-351495d7-5d88-41a4-9920-594d2a1a0948.jpg)
+
 A collection of codes for monkeypox virus temporal mutation tracking. 
 ```
 
@@ -65,6 +69,7 @@ gene = prefix to consider for the output files
 
 # Output
 ```r
-
-![plot](https://user-images.githubusercontent.com/89874227/221016548-351495d7-5d88-41a4-9920-594d2a1a0948.jpg)
-
+1) *_mutation.csv : data frame with the list of identified mutations and their associated frequencies and percentages. 
+2) *_frequencies.csv : data frame with the identified mutation by epidemiological.
+3) a plot showing the temporal variation of the identified mutations. 
+```
