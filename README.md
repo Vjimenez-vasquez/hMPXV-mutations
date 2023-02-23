@@ -65,5 +65,5 @@ gene = prefix to consider for the output files
 # Output
 ```r
 
+![plot](https://user-images.githubusercontent.com/89874227/221016548-351495d7-5d88-41a4-9920-594d2a1a0948.jpg)
 
-![plot](https://user-images.githubusercontent.com/89874227/221016162-80396ece-d8ca-4335-98d7-05495bb6c8d3.png)
