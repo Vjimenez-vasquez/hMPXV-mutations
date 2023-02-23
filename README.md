@@ -1,5 +1,6 @@
 # hMPXV-mutations
 ```r
+![graphic1](https://user-images.githubusercontent.com/89874227/156581714-857a724b-d9fd-4abf-a4df-84b5e8c1cfda.jpg)
 A collection of codes for monkeypox virus temporal mutation tracking. 
 ```
 
