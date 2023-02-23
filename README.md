@@ -52,13 +52,13 @@ head(out)
 
 # Usage
 ```r
-#1 mutations_time_nuc : Estimates the temporal variation of nucleotide substitutions
+# 1 mutations_time_nuc : Estimates the temporal variation of nucleotide substitutions
 mutations_time_nuc(data=out,xmin="2022-04-01",xmax="2023-01-30",ymin=1,ymax=200,freq_sup=2800,freq_inf=300,title="Monkey_mundo",gene="nuc_mun")
 
 #2 mutations_time_aa : Estimates the temporal variation of aminoacid mutations
 mutations_time_aa(data=out,xmin="2022-06-15",xmax="2022-09-15",ymin=0,ymax=8,freq_sup=11,freq_inf=2,title="Monkey : aasubstitutions",gene="prot")
 
-#3 plot_time : Generates individual plots taking as input a "*_mutations_frequencies.csv" file obtained with mutations_time_nuc or mutations_time_aa commands 
+#3 plot_time : Generates individual plots taking as input "*_mutations_frequencies.csv" file obtained with mutations_time_nuc or mutations_time_aa commands 
 plot_time(data=n4,xmin="2022-05-01",xmax="2022-09-10",ymin=1,ymax=3.5,freq_sup=24,freq_inf=10,title="Monkey_B.1.14",gene="nuc_B.1.14")
 
 # arguments 
