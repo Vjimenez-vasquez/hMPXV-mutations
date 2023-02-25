@@ -1,13 +1,11 @@
 # hMPXV-mutations
-A code designed by Victor Jimenez Vasquez - vr.jimenez.vs@gmail.com
+
+A code designed by Victor Jimenez-Vasquez - vr.jimenez.vs@gmail.com
+
+"hMPXV-mutations" is collection of codes for monkeypox virus temporal  nucleotide and aminoacid mutations tracking. 
 
 ![graphic1](https://user-images.githubusercontent.com/89874227/221016548-351495d7-5d88-41a4-9920-594d2a1a0948.jpg)
 
-```r
-
- A collection of codes for monkeypox virus temporal mutation tracking
- 
-```
 
 # Example
 ```r
