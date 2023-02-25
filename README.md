@@ -76,6 +76,6 @@ gene = prefix to consider for the output files
 # Output
 ```r
 1) *_mutations.csv : data frame with the list of identified mutations and their associated frequencies and percentages. 
-2) *_mutations_frequencies.csv : data frame with the identified mutation by epidemiological.
-3) a plot showing the temporal variation of the identified mutations. 
+2) *_mutations_frequencies.csv : data frame with the identified mutation by epidemiological week, it can be taken as input for "plot_time" command. 
+3) a plot showing the temporal variation of the identified mutations that can be save in different formats. 
 ```
